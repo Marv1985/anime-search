@@ -65,13 +65,13 @@ a {
   display: flex;
 }
 .up {
-  transition: transform 0.2s ease;
+  transition: all 0.2s ease;
   max-height: 70px;
   padding-right: 0.4em;
-  -webkit-transition: transform 0.2s ease;
-  -moz-transition: transform 0.2s ease;
-  -ms-transition: transform 0.2s ease;
-  -o-transition: transform 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
 }
 .up:hover {
   visibility: visible;
@@ -119,11 +119,11 @@ a {
 
 /* hover effects */
 .wrapper2 div {
-  transition: transform 0.2s ease;
-  -webkit-transition: transform 0.2s ease;
-  -moz-transition: transform 0.2s ease;
-  -ms-transition: transform 0.2s ease;
-  -o-transition: transform 0.2s ease;
+  transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
 }
 .wrapper2 div:hover {
   transform: scale(1.1);

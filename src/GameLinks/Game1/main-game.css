@@ -12,11 +12,11 @@ body {
   padding: 2%;
   height: 4em;
   width: auto;
-  transition: transform 0.2s ease;
-  -webkit-transition: transform 0.2s ease;
-  -moz-transition: transform 0.2s ease;
-  -ms-transition: transform 0.2s ease;
-  -o-transition: transform 0.2s ease;
+  transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
 }
 .sim {
   margin-left: 2.5% !important;
