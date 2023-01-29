@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.700e3fd4.css",
+    "main.css": "/static/css/main.36ab53ec.css",
     "main.js": "/static/js/main.4a378497.js",
     "static/media/g4.jpeg": "/static/media/g4.101787dd7a08cca6a511.jpeg",
     "static/media/ariel.png": "/static/media/ariel.74b20487be627012c7bb.png",
@@ -22,11 +22,11 @@
     "static/media/podium.png": "/static/media/podium.203acfb9416b21974f7f.png",
     "static/media/Saiyan-Sans.ttf": "/static/media/Saiyan-Sans.daf700d2a47edf876686.ttf",
     "index.html": "/index.html",
-    "main.700e3fd4.css.map": "/static/css/main.700e3fd4.css.map",
+    "main.36ab53ec.css.map": "/static/css/main.36ab53ec.css.map",
     "main.4a378497.js.map": "/static/js/main.4a378497.js.map"
   },
   "entrypoints": [
-    "static/css/main.700e3fd4.css",
+    "static/css/main.36ab53ec.css",
     "static/js/main.4a378497.js"
   ]
 }

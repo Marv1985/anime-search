@@ -181,7 +181,7 @@ body {
   animation: rotator 2s 1 0s;
   -webkit-animation: rotator 2s 1 0s;
 }
-@keyframes slide {
+/* @keyframes slide {
   0% {
     right: -100%;
   }
@@ -196,7 +196,7 @@ body {
   100% {
     -webkit-transform: rotate(360deg);
   }
-}
+} */
 
 /* scroll bar */
 body::-webkit-scrollbar {
