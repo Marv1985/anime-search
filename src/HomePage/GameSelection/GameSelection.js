@@ -92,25 +92,25 @@ export default function GameSelection() {
 
         {/* games selection */}
         <div className="wrapper2">
-          <div>
+          <div className="one">
             <p>Game 1</p>
             <Link to="game1">
               <img src={g1} alt="game1" />
             </Link>
           </div>
-          <div>
+          <div className="one">
             <p>Game 2</p>
             <Link to="game2">
               <img src={g2} alt="game2" />
             </Link>
           </div>
-          <div>
+          <div className="one">
             <p>Game 3</p>
             <Link to="game3">
               <img src={g3} alt="game3" />
             </Link>
           </div>
-          <div>
+          <div className="one">
             <p>Game 4</p>
             <Link to="game4">
               <img src={g4} alt="game4" />
